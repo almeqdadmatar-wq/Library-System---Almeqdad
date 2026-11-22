@@ -351,8 +351,3 @@ st.caption("Done by: Almeqdad Matar")
 st.caption("instructors: Jamila & Abdulrahman")
 st.caption("GA Data Science Bootcamp")
 
-
-
-
-
-# ?hhhh?
