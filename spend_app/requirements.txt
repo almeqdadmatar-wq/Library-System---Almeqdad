@@ -3,5 +3,3 @@ pandas
 numpy
 seaborn
 plotly
-os
-datetime
