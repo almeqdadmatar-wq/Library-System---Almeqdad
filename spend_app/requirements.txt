@@ -2,3 +2,6 @@ matplotlib
 pandas
 numpy
 seaborn
+plotly
+os
+datetime
